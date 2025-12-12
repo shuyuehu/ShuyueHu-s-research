@@ -13,6 +13,18 @@
   - [ReMA: Learning to Meta-Think for LLMs with Multi-Agent Reinforcement Learning](#rema-learning-to-meta-think)
   - [Nature-Inspired Population-Based Evolution of Large Language Models](#nature-inspired-population-based-evolution) -->
 
+## News & Updates
+
+🎉 Our LLM agent tutorial website is now live and open to everyone!
+
+Our site offers a beginner-friendly, no-code introduction to LLM agents, with intuitive explanations, 9 self-contained real-world examples, practical development tips, and a roadmap to advanced techniques. [[Paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/291830/preprint_pdf/e6758438abb84326291f86d79e558057.pdf)] [[Website](https://llm-agent-tutorial.github.io/website/)]
+
+<p align="center">
+  <img src="main_figure.png" alt="Main figure" width="50%" />
+</p>
+
+Below we list our recent work across different directions in multi-LLM research:
+
 ## LLM Routing
 
 - **Avengers**: "The Avengers: A Simple Recipe for Uniting Smaller Language Models to Challenge Proprietary Giants", *AAAI 2026 (Oral)*. [[Paper](https://arxiv.org/abs/2505.19797)] [[Code](https://github.com/ZhangYiqun018/Avengers)]
@@ -21,7 +33,7 @@
 - **IrtNet**: "Learning Compact Representations of LLM Abilities via Item Response Theory", *arXiv, Oct 2025*. [[Paper](https://arxiv.org/abs/2510.00844)] [[Code](https://github.com/JianhaoChen-nju/IrtNet)]
 - **OpenRouterBench**: "A One-Stop Benchmark and Solution Suite for LLM Routing". [✨ The paper is cooming soon][[Code](https://github.com/ynulihao/OpenRouterBench)]
 
-## Multi-LLM-based Agent Cooperation/Coordination
+## LLM-based Multi-Agent Cooperation/Coordination
 
 - **A-ToM**: "Adaptive Theory of Mind for LLM-Based Multi-Agent Coordination", *AAAI 2026*. [[Code](https://github.com/ChunjiangMonkey/Adaptive-ToM)]
 - **RepuNet**: "Beyond the Tragedy of the Commons: Building a Reputation System for Generative Multi-Agent Systems", *arXiv, May 2025*. [[Paper](https://arxiv.org/abs/2505.05029)] [[Code](https://github.com/RGB-0000FF/RepuNet)]
